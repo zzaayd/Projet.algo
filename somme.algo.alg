@@ -18,5 +18,5 @@
         <item algoitem="c PREND_LA_VALEUR a+b" code="5#c#a+b#pasliste"/>
         <item algoitem="AFFICHER c" code="3#c#0#pasliste"/>
     </item>
-    <item algoitem="FIN_ALGORITHME" code="102#finalgo"/>
+
 </Algo>
