@@ -15,8 +15,7 @@
     <item algoitem="DEBUT_ALGORITHME" code="101#debutalgo">
         <item algoitem="LIRE a" code="2#a#pasliste"/>
         <item algoitem="LIRE b" code="2#b#pasliste"/>
-        <item algoitem="c PREND_LA_VALEUR a+b" code="5#c#a+b#pasliste"/>
+        <item algoitem="c PREND_LA_VALEUR (a+b)*10" code="5#c#(a+b)*10#pasliste"/>
         <item algoitem="AFFICHER c" code="3#c#0#pasliste"/>
     </item>
-
 </Algo>
