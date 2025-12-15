@@ -1,6 +1,6 @@
 # Projet AlgoBox - Binôme
 
-## But
+## objectif
 Collaborer sur des fichiers `.algo` et suivre les modifications via Git/GitHub.
 
 ## Ouvrir le projet
